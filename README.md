@@ -1,5 +1,7 @@
 # yefrasinia
+
 using namespace std; 
+
 using BinaryOperation = int (*)(int,int);
 int sum(int a,int b)
 {     return a+b; }
